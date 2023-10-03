@@ -1,5 +1,7 @@
 Paso a paso para subir ficheros con .NET 
 
+Link a videos Youtube =<a href="https://www.youtube.com/playlist?list=PLLbF6JGZ5FrHP-oFAjIysoUlah9lzWiLe">Link a Youtube</a>
+
 
 1.Creación de un proyecto de tipo Web Api.En este caso el proyecto se llama WebApiFicheros y contendrá los dos endpoints para subir y bajar archivos 
 <img src="screenShots\Captura_webApi.PNG">
